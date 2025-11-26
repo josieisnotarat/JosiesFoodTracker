@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "JosiesFoodTracker",
+    "slug": "josiesfoodtracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "josiesfoodtracker",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.josies.foodtracker"
+    },
+    "web": {}
+  }
+}
