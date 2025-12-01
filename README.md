@@ -22,9 +22,11 @@ A modern food tracking app inspired by the provided reference UI. It supports ba
    ```bash
    npm install
    ```
-2. Start the Expo dev server:
+2. Start the Expo dev server (uses the local Expo CLI from `node_modules/.bin`, no global install required):
    ```bash
    npm start
+   # or
+   npx expo start
    ```
    - Press **a** to open Android emulator, **i** for iOS simulator (macOS), or scan the QR code with the Expo Go app on device.
 
